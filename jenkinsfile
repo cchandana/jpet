@@ -13,6 +13,6 @@ node {
    }
    stage("deploy")
    {
-       echo "deploy completed"
+       echo "deployment is completed"
    }
 }
